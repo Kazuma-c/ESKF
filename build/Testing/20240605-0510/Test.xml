@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240605-0510-Experimental"
+	Name="czt"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="czt"
+	OSRelease="5.15.0-107-generic"
+	OSVersion="#117~20.04.1-Ubuntu SMP Tue Apr 30 10:35:57 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="151"
+	ProcessorCacheSize="20480"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="19072"
+	TotalPhysicalMemory="15840"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3000"
+	>
+	<Testing>
+		<StartDateTime>Jun 05 13:10 CST</StartDateTime>
+		<StartTestTime>1717564212</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 05 13:10 CST</EndDateTime>
+		<EndTestTime>1717564212</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

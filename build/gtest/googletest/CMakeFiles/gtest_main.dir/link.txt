@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -w -shared -Wl,-soname,libgtest_main.so -o ../lib/libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o   -L/usr/local/lib  -L/usr/lib/x86_64-linux-gnu/libpython3.8.so  -Wl,-rpath,/usr/local/lib:/usr/lib/x86_64-linux-gnu/libpython3.8.so:/home/czy/czy_ws_1/build/gtest/lib ../lib/libgtest.so -lpthread 

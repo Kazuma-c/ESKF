@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DGFLAGS_IS_A_DLL=0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ESKF\\\" -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/home/czy/czy_ws_1/include -I/home/czy/czy_ws_1 -I/home/czy/czy_ws_1/src -I/home/czy/czy_ws_1/build/devel/include -isystem /usr/include/eigen3 -isystem /usr/include/opencv4 -w -g -w -std=gnu++17 -o CMakeFiles/run_eskf.dir/src/run_eskf.cc.o -c /home/czy/czy_ws_1/src/run_eskf.cc",
+  "file": "/home/czy/czy_ws_1/src/run_eskf.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ESKF\\\" -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/opencv4 -I/home/czy/czy_ws_1/include -I/home/czy/czy_ws_1 -I/home/czy/czy_ws_1/src -I/home/czy/czy_ws_1/build/devel/include -w -g -w -std=gnu++17 -o CMakeFiles/kf.dir/src/kf/kf.cc.o -c /home/czy/czy_ws_1/src/kf/kf.cc",
+  "file": "/home/czy/czy_ws_1/src/kf/kf.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ESKF\\\" -Dku_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/opencv4 -I/home/czy/czy_ws_1/include -I/home/czy/czy_ws_1 -I/home/czy/czy_ws_1/src -I/home/czy/czy_ws_1/build/devel/include -w -g -w -fPIC -std=gnu++17 -o CMakeFiles/ku.dir/src/io_utils.cc.o -c /home/czy/czy_ws_1/src/io_utils.cc",
+  "file": "/home/czy/czy_ws_1/src/io_utils.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ESKF\\\" -Dku_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/opencv4 -I/home/czy/czy_ws_1/include -I/home/czy/czy_ws_1 -I/home/czy/czy_ws_1/src -I/home/czy/czy_ws_1/build/devel/include -w -g -w -fPIC -std=gnu++17 -o CMakeFiles/ku.dir/src/tranmerc.cc.o -c /home/czy/czy_ws_1/src/tranmerc.cc",
+  "file": "/home/czy/czy_ws_1/src/tranmerc.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ESKF\\\" -Dku_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/opencv4 -I/home/czy/czy_ws_1/include -I/home/czy/czy_ws_1 -I/home/czy/czy_ws_1/src -I/home/czy/czy_ws_1/build/devel/include -w -g -w -fPIC -std=gnu++17 -o CMakeFiles/ku.dir/src/utm_convert.cc.o -c /home/czy/czy_ws_1/src/utm_convert.cc",
+  "file": "/home/czy/czy_ws_1/src/utm_convert.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ESKF\\\" -Dku_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/opencv4 -I/home/czy/czy_ws_1/include -I/home/czy/czy_ws_1 -I/home/czy/czy_ws_1/src -I/home/czy/czy_ws_1/build/devel/include -w -g -w -fPIC -std=gnu++17 -o CMakeFiles/ku.dir/src/utm.cc.o -c /home/czy/czy_ws_1/src/utm.cc",
+  "file": "/home/czy/czy_ws_1/src/utm.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ESKF\\\" -Dku_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/opencv4 -I/home/czy/czy_ws_1/include -I/home/czy/czy_ws_1 -I/home/czy/czy_ws_1/src -I/home/czy/czy_ws_1/build/devel/include -w -g -w -fPIC -std=gnu++17 -o CMakeFiles/ku.dir/src/static_imu_init.cc.o -c /home/czy/czy_ws_1/src/static_imu_init.cc",
+  "file": "/home/czy/czy_ws_1/src/static_imu_init.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -w -g -w -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -w -g -w -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o gtest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -w -g -w -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o gtest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/czy/czy_ws_1/build",
+  "command": "/usr/bin/c++ -DCATKIN_ENABLE_TESTING=0 -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/include/python3.8 -I/home/czy/matplotlib-cpp -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -w -g -w -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o gtest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+}
+]

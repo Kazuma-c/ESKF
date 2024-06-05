@@ -1,0 +1,1 @@
+/usr/bin/c++ -w CMakeFiles/kf.dir/src/kf/kf.cc.o -o ../bin/kf   -L/usr/local/lib  -L/usr/lib/x86_64-linux-gnu/libpython3.8.so  -Wl,-rpath,/usr/local/lib:/usr/lib/x86_64-linux-gnu/libpython3.8.so /usr/lib/x86_64-linux-gnu/libpython3.8.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -w -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o   -L/usr/local/lib  -L/usr/lib/x86_64-linux-gnu/libpython3.8.so  -Wl,-rpath,/usr/local/lib:/usr/lib/x86_64-linux-gnu/libpython3.8.so:/home/czy/czy_ws_1/build/gtest/lib ../lib/libgtest.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -w -shared -Wl,-soname,libku.so -o ../lib/libku.so CMakeFiles/ku.dir/src/io_utils.cc.o CMakeFiles/ku.dir/src/tranmerc.cc.o CMakeFiles/ku.dir/src/utm_convert.cc.o CMakeFiles/ku.dir/src/utm.cc.o CMakeFiles/ku.dir/src/static_imu_init.cc.o   -L/usr/local/lib  -L/usr/lib/x86_64-linux-gnu/libpython3.8.so 
