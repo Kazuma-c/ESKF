@@ -1,0 +1,2 @@
+data/10.txt filter=lfs diff=lfs merge=lfs -text
+data/gins.txt filter=lfs diff=lfs merge=lfs -text
